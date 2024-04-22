@@ -1,0 +1,24 @@
+{
+  "name": "graciakenc30",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lponsar7/news.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"hc765713": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
